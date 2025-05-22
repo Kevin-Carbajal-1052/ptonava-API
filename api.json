@@ -1,4 +1,5 @@
-[
+{
+  "Productos":[
 
   {
     "title":"Kimetsu no Yaiba #9",
@@ -38,4 +39,5 @@
     "rating":"5",
     "thumbnail":"https://raw.githubusercontent.com/Kevin-Carbajal-1052/Demons-imagen-appflutter/refs/heads/main/kny8.jpg",
   }
-]
+  ]
+}
