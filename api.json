@@ -1,0 +1,41 @@
+[
+
+  {
+    "title":"Kimetsu no Yaiba #9",
+    "price":"120",
+    "description":"Manga de Kimetsu no Yaiba tomo 9, escrito por Koyoharu Gotouge",
+    "rating":"5",
+    "thumbnail":"https://raw.githubusercontent.com/Kevin-Carbajal-1052/Demons-imagen-appflutter/refs/heads/main/kny9.jpg",
+  }
+
+  {
+    "title":"Kimetsu no Yaiba #22",
+    "price":"120",
+    "description":"Manga de Kimetsu no Yaiba tomo 22, escrito por Koyoharu Gotouge",
+    "rating":"5",
+    "thumbnail":"https://raw.githubusercontent.com/Kevin-Carbajal-1052/Demons-imagen-appflutter/refs/heads/main/kny22.jpg",
+  }
+
+  {
+    "title":"Kimetsu no Yaiba #12",
+    "price":"120",
+    "description":"Manga de Kimetsu no Yaiba tomo 12, escrito por Koyoharu Gotouge",
+    "rating":"5",
+    "thumbnail":"https://raw.githubusercontent.com/Kevin-Carbajal-1052/Demons-imagen-appflutter/refs/heads/main/kny12.jpg",
+  }
+  {
+    "title":"Kimetsu no Yaiba #16",
+    "price":"120",
+    "description":"Manga de Kimetsu no Yaiba tomo 12, escrito por Koyoharu Gotouge",
+    "rating":"4.8",
+    "thumbnail":"https://raw.githubusercontent.com/Kevin-Carbajal-1052/Demons-imagen-appflutter/refs/heads/main/kny16.jpg",
+  }
+
+  {
+    "title":"Kimetsu no Yaiba #8",
+    "price":"120",
+    "description":"Manga de Kimetsu no Yaiba tomo 8, escrito por Koyoharu Gotouge",
+    "rating":"5",
+    "thumbnail":"https://raw.githubusercontent.com/Kevin-Carbajal-1052/Demons-imagen-appflutter/refs/heads/main/kny8.jpg",
+  }
+]
